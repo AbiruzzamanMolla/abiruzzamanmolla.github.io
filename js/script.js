@@ -1,4 +1,16 @@
-$(window).on("load",function(){
+// function loadDeferredIframe() {
+//     // this function will load the Google homepage into the iframe
+//     var iframe = document.getElementsByClassName("my-deferred-iframe");
+//     iframe.src = "https://www.youtube.com/embed/LVC-t_0SuaA" // here goes your url
+//     iframe.src = "https://www.youtube.com/embed/OJ6558B3Xz8" // here goes your url
+//     iframe.src = "https://www.youtube.com/embed/LVC-t_0SuaA" // here goes your url
+// };
+
+// window.onload = loadDeferredIframe;
+
+
+
+$(window).on("load", function () {
     $(".loader-wrapper").fadeOut("slow");
     $('html').css({ 'overflow': 'auto', 'height': 'auto', 'position': 'relative' });
     $('.home').css({ 'position': 'relative' });
@@ -16,9 +28,8 @@ $(window).on("load",function(){
 
 
 $(document).ready(function () {
-
     new WOW().init();
-    
+
     $(window).scroll(function(){
         // sticky navbar on scroll script
         if(this.scrollY > 20){
@@ -26,7 +37,7 @@ $(document).ready(function () {
         }else{
             $('.navbar').removeClass("sticky");
         }
-        
+
         // scroll-up button show/hide script
         if(this.scrollY > 500){
             $('.scroll-up-btn').addClass("show");
@@ -69,7 +80,7 @@ $(document).ready(function () {
     });
 
     // owl carousel script
-    $('.carousel').owlCarousel({
+    $('.owl-one').owlCarousel({
         margin: 20,
         loop: true,
         autoplayTimeOut: 2000,
@@ -88,5 +99,14 @@ $(document).ready(function () {
                 nav: false
             }
         }
+    });
+    // projects carosol
+    $('.owl-two').owlCarousel({
+        margin: 20,
+        loop: true,
+        autoplayTimeOut: 2000,
+        autoplayHoverPause: true,
+        items: 1,
+        center:true
     });
 });
