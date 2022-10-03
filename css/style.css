@@ -333,24 +333,24 @@ section .title::after {
 }
 
 /* services section styling */
-.services,
+.projects,
 .teams {
-    color: #fff;
-    background: #111;
+    color: #fff !important;
+    background: #111 !important;
 }
 
-.services .title::before,
+.title::before,
 .teams .title::before {
     background: #fff;
 }
 
-.services .title::after,
+.projects .title::after,
 .teams .title::after {
     background: #111;
     content: "what i provide";
 }
 
-.services .serv-content .card {
+/* .services .serv-content .card {
     width: calc(33% - 20px);
     background: #222;
     text-align: center;
@@ -386,7 +386,7 @@ section .title::after {
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-}
+} */
 
 /* skills section styling */
 
@@ -525,7 +525,7 @@ iframe {
 }
 
 .projects .owl-two .card {
-    background: rgb(2, 6, 8);
+    background: rgb(255, 255, 255);
     width: 650px;
     border-radius: 6px;
     padding: 25px 35px;
@@ -642,6 +642,25 @@ iframe {
 .owl-dot.active,
 .owl-dot:hover {
     background: crimson !important;
+}
+
+/* social links */
+
+#social-links {
+    list-style-type: none;
+    margin-left: 50px;
+}
+
+#social-links > li{
+    color:rgb(238, 11, 22);
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+#social-links > li a{
+    color:rgb(238, 11, 22);
+    text-transform: capitalize;
+    font-size: 18px;
 }
 
 /* contact section styling */

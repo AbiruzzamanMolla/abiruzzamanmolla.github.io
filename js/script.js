@@ -110,3 +110,5 @@ $(document).ready(function () {
         center:true
     });
 });
+
+document.getElementById("year").innerHTML = new Date().getFullYear();
