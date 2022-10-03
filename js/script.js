@@ -68,14 +68,14 @@ $(document).ready(function () {
     var typed = new Typed(".typing", {
         strings: ["Developer", "Freelancer"],
         typeSpeed: 100,
-        backSpeed: 60,
+        backSpeed: 30,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["Developer", "Freelancer"],
         typeSpeed: 100,
-        backSpeed: 60,
+        backSpeed: 30,
         loop: true
     });
 
