@@ -112,3 +112,9 @@ $(document).ready(function () {
 });
 
 document.getElementById("year").innerHTML = new Date().getFullYear();
+
+function copyEmail() {
+    var copyText = 'abiruzzaman.molla@gmail.com';
+    navigator.clipboard.writeText(copyText);
+    alert("Copied the Email: " + copyText);
+}
