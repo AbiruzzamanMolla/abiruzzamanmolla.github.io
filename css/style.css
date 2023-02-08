@@ -87,7 +87,7 @@ section .title::before {
 
 section .title::after {
     position: absolute;
-    bottom: -8px;
+    bottom: -30px;
     left: 50%;
     font-size: 20px;
     color: crimson;
@@ -393,11 +393,18 @@ section .title::after {
 
 
 .skills .title::after {
-    content: "what i know";
+    content: "my clients projects";
 }
 
 .skills .skills-content .column {
-    width: calc(50% - 30px);
+    width: calc(50% - 10px);
+}
+
+.skills .skills-content .column .left {
+    width: 40% !important;
+}
+.skills .skills-content .column .right {
+    width: 60% !important;
 }
 
 .skills .skills-content .left .text {
