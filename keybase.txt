@@ -1,0 +1,75 @@
+==================================================================
+httpskeybase.ioabiruzzamanmolla
+--------------------------------------------------------------------
+
+I hereby claim
+
+   I am an admin of httpsabiruzzamanmolla.github.io
+   I am abiruzzamanmolla (httpskeybase.ioabiruzzamanmolla) on keybase.
+   I have a public key with fingerprint 241D C5BB 55B8 11FA 8051  FDD1 D8F5 B1A1 DDC0 6AD9
+
+To do so, I am signing this object
+
+{
+  body {
+    key {
+      eldest_kid 012016c1ce2e309dc4ebe0631087d1887a0936183ff4f6f2fe9eb483c04debf18f850a,
+      fingerprint 241dc5bb55b811fa8051fdd1d8f5b1a1ddc06ad9,
+      host keybase.io,
+      key_id d8f5b1a1ddc06ad9,
+      kid 0101c2996062595717717e8faa2777cab187806e9dee150890871153f28e0e27f2dc0a,
+      uid b12d3693f647551bd2c13692102a3519,
+      username abiruzzamanmolla
+    },
+    service {
+      hostname abiruzzamanmolla.github.io,
+      protocol https
+    },
+    type web_service_binding,
+    version 1
+  },
+  ctime 1676988789,
+  expire_in 157680000,
+  prev f561198a62ee16b795eee6b4c045d8102dd82905ff7f3a50aa4e9b8f0e92e107,
+  seqno 9,
+  tag signature
+}
+
+which yields the signature
+
+-----BEGIN PGP MESSAGE-----
+Version Keybase OpenPGP v2.1.13
+Comment httpskeybase.iocrypto
+
+yMN9AnicdVJ7UFRVGN8VwRHDIUbsMZBxoWyE8J57974WEsEhRZM0kWAkts4B64u
+u+vu3U1eMgyk6yoToUWMwIATlhACRQSCIj5IUqnEHMgYoUgZEcvNB1HNdClf3Xm
+zJz5zvn9ft3+75zNsBH568fut9aN3Jq27D+Qm+TUyfe+9aZhwlWKQcz5mHb4ewB
+zRJ0KKbtsoQZMRwQOKBFIEICkjgniQYoQJwmAc4yEmBZhsc5kgYsiZAB0YhAkIOC
+gSVF3CBBAQEWsRTOY1EYki2Z0G6zyxZFlSUMQBIpQaAogQUA8SxOASRJQGIRJQAe
+SJKI07zEqcQsq0NjqMUJvANGy1b1Tg1Ms+X9B5R3TgQCY6jcZqgOIoBjLohi3ie
+YBhG5AXAMixOQ06CEFA4y6l+AKBIRLAQhwSDCFVRq9s5KycAQiJpjkS0gaEoIEiE
+CNSYADjBkxTQ8jod0G7hs6GK5gXZ7szN5bN5S7bVbOaxgihMfXXJItQarDn6H2R0
+pqxkOYVXNrsVsUqWs0qLktRbA6jpqPk2DTiW1AwStpEmSLpHZXZbig3SFbLZgR
+qEhRkbUcgGZoTh0Uy0VhcKdNtkOTrCEohmZxdWl5oEuVRBQNAMfyNKG2hBYYjoIQ
+0oJBHSUlsapTSWIJDqcQYhDJq1PlDZATWIRDjoAAZzDN5A6LFTOqmRQ+U5V0yJkW
+XnHaIVZwujdjrk7vrPznaP9Op3MBHf3F0S6CuV076vGfm1sP+Zj8yZOLaXLW
+JP9I8bW3u+2uxx+s+lC63tSePC69jTC4x5aVR9U6lo+0OJ1JDZuqMjemBH0fWfM
+neGrz1avHZ4JWbP0zzv97heCEw68US+76XvrrRiJ69GZv43OLJeFjPOyIcC06v
+zq9tj2qqIKe2xqeiur3bgoYz1h3s0l+O34TEl58+PJYjbGvu7EijkxnthrD+3t
+k+bm2MPeoePxKfNLasnNnme682tm4lBCMJY1cMy55oD39gkpuT9kWaY31Xa+cid
+puni8d8ClnyyvnpZduTXbuiD63allxyzgyJRYNlhR1520aK33+rhQWXL27LNp3
+Ztg36YnJvIjKXRXhrU7HMv40bOPDvUUuk8aDoa+11ZT+OncN2PSrh5ylW8cisCr
+C+b1lKe0H7GmpAb+Xv5HuXlwHBVf75rasqF0Sp+waEc0QHj62v3eI5wHZPpCz4O
+SDSVKSem02o7I29+tI+paqmKn4zo2txlbBuBLvurPxgm6n3PbfjmxvWMLGWw2P
+TUzLu1eMR+Y9yFnuPVf3tU+f4uR1aSuPen8yNIxdGW0YyQ89fyE5KnFQcQsXBnt
+rjqVkub9QlT3DF0o8Sdvqfx4qi79JV5uZf2p55Oe6DzrJSc1Jyx3vLgnrGSg7
+S6xeZLiZ3FS0eKlfTv5CW8BTv957Yxo23g77G60R1A0=
+=RkJc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here httpskeybase.ioabiruzzamanmolla
+
+==================================================================
